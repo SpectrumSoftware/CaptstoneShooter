@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerControl : MonoBehaviour {
+public class FPSControl : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
